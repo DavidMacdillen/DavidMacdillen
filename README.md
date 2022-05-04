@@ -1,4 +1,4 @@
-## Oi eu sou a David Macdillen!
+## Ola eu sou a David Macdillen!
 
 - 🌱 Estudando C#
 
