@@ -1,6 +1,7 @@
 ## Ola eu sou a David Macdillen!
 
 - 🌱 Estudando C#
+- 🌱 Estudando Html Css
 
 
 <div align="center">
